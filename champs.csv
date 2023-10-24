@@ -1,0 +1,24 @@
+name,gender,positions,range_type,regions
+Aatrox,Male,"Top",Melee,"Runeterra,Shurima"
+Ahri,Female,Middle,Ranged,Ionia
+Akali,Female,"Middle,Top",Melee,Ionia
+Akshan,Male,"Middle,Top",Ranged,Shurima
+Alistar,Male,Support,Melee,Runeterra
+Amumu,Male,"Jungle,Support",Melee,Shurima
+Anivia,Female,Middle,Ranged,Freljord
+Annie,Female,"Middle,Support",Ranged,"Noxus,Runeterra"
+Aphelios,Male,Bottom,Ranged,Targon
+Ashe,Female,"Bottom,Support",Ranged,Freljord
+Aurelion Sol,Male,Middle,Ranged,"Runeterra,Targon"
+Azir,Male,Middle,Ranged,Shurima
+Bard,Male,Support,Ranged,Runeterra
+Bel'Veth,Female,Jungle,Melee,Void
+Blitzcrank,Other,Support,Melee,Zaun
+Brand,Male,"Support",Ranged,"Freljord,Runeterra"
+Braum,Male,Support,Melee,Freljord
+Caitlyn,Female,Bottom,Ranged,Piltover
+Camille,Female,Top,Melee,Piltover
+Cassiopeia,Female,Middle,Ranged,"Noxus,Shurima"
+Cho'Gath,Male,Top,Melee,Void
+Corki,Male,Middle,Ranged,"Bandle City,Piltover"
+Darius,Male,Top,Melee,Noxus
